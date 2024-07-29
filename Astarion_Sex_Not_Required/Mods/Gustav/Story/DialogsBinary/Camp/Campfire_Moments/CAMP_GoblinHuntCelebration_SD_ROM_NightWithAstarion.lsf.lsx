@@ -3986,6 +3986,9 @@
 										<node id="child">
 											<attribute id="UUID" type="FixedString" value="e2be5da1-79f8-116a-7db3-c96b9452aa3c" />
 										</node>
+										<node id="child">
+											<attribute id="UUID" type="FixedString" value="37613c1f-e859-42ee-af9c-8ef62320330e" />
+										</node>
 									</children>
 								</node>
 								<node id="Tags" />
@@ -7140,7 +7143,7 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedString" handle="h3269e3e7gd75bg405cgba3dg979bb2059049" version="2" />
+															<attribute id="TagText" type="TranslatedString" handle="h3269e3e7gd75bg405cgba3dg979bb2059049" version="2" /> <!-- I - you know, I have no idea what to do with you. -->
 															<attribute id="LineId" type="guid" value="fde30389-2f32-4a0d-b3e2-221e6be4347a" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
@@ -10575,7 +10578,7 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedString" handle="h7a59d512g5a6cg4fb6gbd68gb26bdfea6c26" version="2" />
+															<attribute id="TagText" type="TranslatedString" handle="h7a59d512g5a6cg4fb6gbd68gb26bdfea6c26" version="2" /> <!-- Hold on - I'm not sure about this. -->
 															<attribute id="LineId" type="guid" value="dbd2603c-0622-c272-2d93-704dc5bebf74" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
@@ -14309,7 +14312,7 @@
 								<node id="children">
 									<children>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="83b93f50-2a39-0676-3ae8-b6e4f1e25874" />
+											<attribute id="UUID" type="FixedString" value="4375c35a-3a4f-4206-83bb-8ca0308b9add" />
 										</node>
 									</children>
 								</node>
@@ -14332,7 +14335,7 @@
 													<children>
 														<node id="TagText">
 															<attribute id="TagText" type="TranslatedString" handle="h011860bag8fa1g4bedg8e9bgd7cf89fbaf90" version="2" /> <!-- Then what are you doing here? -->
-															<attribute id="LineId" type="guid" value="cbb3f1c4-f8ae-4b97-acab-6596c431c207" />
+															<attribute id="LineId" type="guid" value="e56cf035-d6b5-508e-a757-79f64f545fb8" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
 													</children>
@@ -14352,6 +14355,62 @@
 										<node id="data" key="key">
 											<attribute id="key" type="FixedString" value="CinematicNodeContext" />
 											<attribute id="val" type="LSString" value="Steps back annoyed" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="node" key="UUID">
+							<attribute id="constructor" type="FixedString" value="TagAnswer" />
+							<attribute id="UUID" type="FixedString" value="4375c35a-3a4f-4206-83bb-8ca0308b9add" />
+							<attribute id="GroupID" type="FixedString" value="4375c35a-3a4f-4206-83bb-8ca0308b9add" />
+							<attribute id="GroupIndex" type="int32" value="1" />
+							<attribute id="speaker" type="int32" value="0" />
+							<children>
+								<node id="children">
+									<children>
+										<node id="child">
+											<attribute id="UUID" type="FixedString" value="d61acfbd-f31a-605f-4950-4344cb6f73b0" />
+										</node>
+										<node id="child">
+											<attribute id="UUID" type="FixedString" value="682b2fa9-893c-ffeb-e28c-4c14219c692e" />
+										</node>
+										<node id="child">
+											<attribute id="UUID" type="FixedString" value="8d12bff5-9541-6f0f-1e6a-f6cb5c9fe3e5" />
+										</node>
+									</children>
+								</node>
+								<node id="GameData">
+									<children>
+										<node id="AiPersonalities" key="AiPersonality" />
+										<node id="MusicInstrumentSounds" />
+										<node id="OriginSound" />
+									</children>
+								</node>
+								<node id="Tags" />
+								<node id="setflags" />
+								<node id="checkflags" />
+								<node id="TaggedTexts">
+									<children>
+										<node id="TaggedText">
+											<attribute id="HasTagRule" type="bool" value="True" />
+											<children>
+												<node id="TagTexts">
+													<children>
+														<node id="TagText">
+															<attribute id="TagText" type="TranslatedString" handle="h3269e3e7gd75bg405cgba3dg979bb2059049" version="2" /> <!-- I - you know, I have no idea what to do with you. -->
+															<attribute id="LineId" type="guid" value="9d25cd50-9491-4d17-8801-409a7f500720" />
+															<attribute id="stub" type="bool" value="True" />
+														</node>
+													</children>
+												</node>
+												<node id="RuleGroup">
+													<attribute id="TagCombineOp" type="uint8" value="0" />
+													<children>
+														<node id="Rules" />
+													</children>
+												</node>
+											</children>
 										</node>
 									</children>
 								</node>
