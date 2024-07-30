@@ -14429,7 +14429,7 @@
 								<node id="children">
 									<children>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="2081a3be-dad4-43d3-8438-7091787a6d0f" />
+											<attribute id="UUID" type="FixedString" value="ec2189b9-bd6b-4475-a367-1332bce85cad" />
 										</node>
 									</children>
 								</node>
@@ -14474,7 +14474,7 @@
 						</node>
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="Alias" />
-							<attribute id="UUID" type="FixedString" value="2081a3be-dad4-43d3-8438-7091787a6d0f" />
+							<attribute id="UUID" type="FixedString" value="ec2189b9-bd6b-4475-a367-1332bce85cad" />
 							<attribute id="speaker" type="int32" value="-1" />
 							<attribute id="SourceNode" type="FixedString" value="731ec555-a39f-f4d6-b48a-42f9396e91e9" /> <!-- 'Just be' what, exactly? Frustrated? Bored? -->
 							<children>
@@ -14506,7 +14506,7 @@
 								<node id="children">
 									<children>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="4375c35a-3a4f-4206-83bb-8ca0308b9add" />
+											<attribute id="UUID" type="FixedString" value="dc87d7be-d7fd-b552-750a-ffb5100bdfcd" />
 										</node>
 									</children>
 								</node>
