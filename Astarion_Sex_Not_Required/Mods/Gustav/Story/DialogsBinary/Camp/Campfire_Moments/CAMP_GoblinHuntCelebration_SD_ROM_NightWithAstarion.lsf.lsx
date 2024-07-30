@@ -14366,20 +14366,14 @@
 						</node>
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="Alias" />
-							<attribute id="UUID" type="FixedString" value="4375c35a-3a4f-4206-83bb-8ca0308b9add" />
+							<attribute id="UUID" type="FixedString" value="2081a3be-dad4-43d3-8438-7091787a6d0f" />
 							<attribute id="speaker" type="int32" value="-1" />
-							<attribute id="SourceNode" type="FixedString" value="83b93f50-2a39-0676-3ae8-b6e4f1e25874" /> <!-- I - you know, I have no idea what to do with you. -->
+							<attribute id="SourceNode" type="FixedString" value="e1536940-029f-2ff5-2f07-01a0b48e7d29" /> <!-- What? -->
 							<children>
 								<node id="children">
 									<children>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="d61acfbd-f31a-605f-4950-4344cb6f73b0" />
-										</node>
-										<node id="child">
-											<attribute id="UUID" type="FixedString" value="682b2fa9-893c-ffeb-e28c-4c14219c692e" />
-										</node>
-										<node id="child">
-											<attribute id="UUID" type="FixedString" value="8d12bff5-9541-6f0f-1e6a-f6cb5c9fe3e5" />
+											<attribute id="UUID" type="FixedString" value="4375c35a-3a4f-4206-83bb-8ca0308b9add" />
 										</node>
 									</children>
 								</node>
@@ -14397,9 +14391,117 @@
 						</node>
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="Alias" />
+							<attribute id="UUID" type="FixedString" value="4375c35a-3a4f-4206-83bb-8ca0308b9add" />
+							<attribute id="speaker" type="int32" value="-1" />
+							<attribute id="SourceNode" type="FixedString" value="83b93f50-2a39-0676-3ae8-b6e4f1e25874" /> <!-- I - you know, I have no idea what to do with you. -->
+							<children>
+								<node id="children">
+									<children>
+										<node id="child">
+											<attribute id="UUID" type="FixedString" value="02d6ae09-3013-4efc-8774-606438f4c1fb" />
+										</node>
+										<!-- <node id="child">
+											<attribute id="UUID" type="FixedString" value="682b2fa9-893c-ffeb-e28c-4c14219c692e" />
+										</node> -->
+										<node id="child">
+											<attribute id="UUID" type="FixedString" value="8d12bff5-9541-6f0f-1e6a-f6cb5c9fe3e5" />
+										</node>
+									</children>
+								</node>
+								<node id="GameData">
+									<children>
+										<node id="AiPersonalities" key="AiPersonality" />
+										<node id="MusicInstrumentSounds" />
+										<node id="OriginSound" />
+									</children>
+								</node>
+								<node id="Tags" />
+								<node id="setflags" />
+								<node id="checkflags" />
+							</children>
+						</node>
+						<node id="node" key="UUID"> 
+							<attribute id="constructor" type="FixedString" value="TagQuestion" />
+							<attribute id="UUID" type="FixedString" value="02d6ae09-3013-4efc-8774-606438f4c1fb" />
+							<attribute id="ShowOnce" type="bool" value="True" />
+							<attribute id="speaker" type="int32" value="1" />
+							<children>
+								<node id="children">
+									<children>
+										<node id="child">
+											<attribute id="UUID" type="FixedString" value="2081a3be-dad4-43d3-8438-7091787a6d0f" />
+										</node>
+									</children>
+								</node>
+								<node id="GameData">
+									<children>
+										<node id="AiPersonalities" key="AiPersonality" />
+										<node id="MusicInstrumentSounds" />
+										<node id="OriginSound" />
+									</children>
+								</node>
+								<node id="Tags" />
+								<node id="setflags" />
+								<node id="checkflags" />
+								<node id="TaggedTexts">
+									<children>
+										<node id="TaggedText">
+											<attribute id="HasTagRule" type="bool" value="True" />
+											<children>
+												<node id="TagTexts">
+													<children>
+														<node id="TagText">
+															<attribute id="TagText" type="TranslatedString" handle="h6709fc05g043ag4a5fga8e7g50fb5c6ac848" version="1" /> <!-- You don't have to 'do' anything. We can just be. -->
+															<attribute id="LineId" type="guid" value="ca237649-8e0a-4179-988e-541b5ac872f0" />
+															<attribute id="stub" type="bool" value="True" />
+														</node>
+													</children>
+												</node>
+												<node id="RuleGroup">
+													<attribute id="TagCombineOp" type="uint8" value="0" />
+													<children>
+														<node id="Rules" />
+													</children>
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="ValidatedFlags">
+									<attribute id="ValidatedHasValue" type="bool" value="False" />
+								</node>
+							</children>
+						</node>
+						<node id="node" key="UUID">
+							<attribute id="constructor" type="FixedString" value="Alias" />
 							<attribute id="UUID" type="FixedString" value="2081a3be-dad4-43d3-8438-7091787a6d0f" />
 							<attribute id="speaker" type="int32" value="-1" />
-							<attribute id="SourceNode" type="FixedString" value="e1536940-029f-2ff5-2f07-01a0b48e7d29" /> <!-- What? -->
+							<attribute id="SourceNode" type="FixedString" value="731ec555-a39f-f4d6-b48a-42f9396e91e9" /> <!-- 'Just be' what, exactly? Frustrated? Bored? -->
+							<children>
+								<node id="children">
+									<children>
+										<node id="child">
+											<attribute id="UUID" type="FixedString" value="f5997676-b450-4e93-9110-937020b67719" />
+										</node>
+									</children>
+								</node>
+								<node id="GameData">
+									<children>
+										<node id="AiPersonalities" key="AiPersonality" />
+										<node id="MusicInstrumentSounds" />
+										<node id="OriginSound" />
+									</children>
+								</node>
+								<node id="Tags" />
+								<node id="setflags" />
+								<node id="checkflags" />
+							</children>
+						</node>
+						<node id="node" key="UUID">
+							<attribute id="constructor" type="FixedString" value="Alias" />
+							<attribute id="UUID" type="FixedString" value="f5997676-b450-4e93-9110-937020b67719" />
+							<attribute id="speaker" type="int32" value="-1" />
+							<attribute id="SourceNode" type="FixedString" value="3c84e7ce-71b2-0080-76d6-18c6a99de251" /> <!-- What do we do, if not... that? -->
 							<children>
 								<node id="children">
 									<children>
@@ -14426,6 +14528,7 @@
 						<node id="RootNodes">
 							<attribute id="RootNodes" type="FixedString" value="97ccbb56-1268-dafa-8da1-ad456792a01b" />
 						</node>
+						<!-- Extra dialogue from other dialogs -->
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="TagAnswer" />
 							<attribute id="UUID" type="FixedString" value="e1536940-029f-2ff5-2f07-01a0b48e7d29" />
@@ -14456,7 +14559,7 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedString" handle="h314413d7g373eg47e1gbea9g3d747fc7fb7d" version="1" />
+															<attribute id="TagText" type="TranslatedString" handle="h314413d7g373eg47e1gbea9g3d747fc7fb7d" version="1" /> <!-- What? -->
 															<attribute id="LineId" type="guid" value="d1f2168d-6a5c-f3b7-78cf-887545359907" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
