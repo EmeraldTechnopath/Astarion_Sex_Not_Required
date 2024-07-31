@@ -3326,8 +3326,6 @@
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="TagAnswer" />
 							<attribute id="UUID" type="FixedString" value="3c84e7ce-71b2-0080-76d6-18c6a99de251" />
-							<attribute id="GroupID" type="FixedString" value="731ec555-a39f-f4d6-b48a-42f9396e91e9" />
-							<attribute id="GroupIndex" type="int32" value="1" />
 							<attribute id="speaker" type="int32" value="0" />
 							<children>
 								<node id="children">
@@ -5287,8 +5285,6 @@
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="TagAnswer" />
 							<attribute id="UUID" type="FixedString" value="66772b72-221e-bcdd-cf51-bb135068aa98" />
-							<attribute id="GroupID" type="FixedString" value="2f4ca1b4-6e2f-3827-7633-e698d8b1c7a9" />
-							<attribute id="GroupIndex" type="int32" value="1" />
 							<attribute id="speaker" type="int32" value="0" />
 							<children>
 								<node id="children">
@@ -6234,8 +6230,6 @@
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="TagAnswer" />
 							<attribute id="UUID" type="FixedString" value="731ec555-a39f-f4d6-b48a-42f9396e91e9" />
-							<attribute id="GroupID" type="FixedString" value="731ec555-a39f-f4d6-b48a-42f9396e91e9" />
-							<attribute id="GroupIndex" type="int32" value="0" />
 							<attribute id="speaker" type="int32" value="0" />
 							<children>
 								<node id="children">
@@ -7103,8 +7097,6 @@
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="TagAnswer" />
 							<attribute id="UUID" type="FixedString" value="83b93f50-2a39-0676-3ae8-b6e4f1e25874" />
-							<attribute id="GroupID" type="FixedString" value="1416ac22-7c2e-3af7-f0ad-991f05ee59dd" />
-							<attribute id="GroupIndex" type="int32" value="1" />
 							<attribute id="speaker" type="int32" value="0" />
 							<children>
 								<node id="children">
@@ -7224,8 +7216,6 @@
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="TagAnswer" />
 							<attribute id="UUID" type="FixedString" value="85631875-45db-785b-44cf-fb6aba7665e4" />
-							<attribute id="GroupID" type="FixedString" value="c94de1ec-551e-ce6b-1aa7-a177e978bbc9" />
-							<attribute id="GroupIndex" type="int32" value="2" />
 							<attribute id="speaker" type="int32" value="0" />
 							<children>
 								<node id="children">
@@ -7400,8 +7390,6 @@
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="TagAnswer" />
 							<attribute id="UUID" type="FixedString" value="8610b136-e25c-cd07-1c0d-a559660f1461" />
-							<attribute id="GroupID" type="FixedString" value="8610b136-e25c-cd07-1c0d-a559660f1461" />
-							<attribute id="GroupIndex" type="int32" value="0" />
 							<attribute id="speaker" type="int32" value="0" />
 							<children>
 								<node id="children">
@@ -7665,18 +7653,6 @@
 								<node id="ValidatedFlags">
 									<attribute id="ValidatedHasValue" type="bool" value="False" />
 								</node>
-							</children>
-						</node>
-						<node id="node" key="UUID">
-							<attribute id="constructor" type="FixedString" value="Jump" />
-							<attribute id="UUID" type="FixedString" value="88c6e8d8-133f-63b4-9a29-14a9d4e5cd94" />
-							<attribute id="jumptarget" type="FixedString" value="e2d29fec-936a-b00d-3918-7b9821684904" />
-							<attribute id="jumptargetpoint" type="uint8" value="1" />
-							<children>
-								<node id="children" />
-								<node id="Tags" />
-								<node id="setflags" />
-								<node id="checkflags" />
 							</children>
 						</node>
 						<node id="node" key="UUID">
@@ -8493,8 +8469,6 @@
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="TagAnswer" />
 							<attribute id="UUID" type="FixedString" value="9a867dec-2d95-7906-4e1a-7850ff681b57" />
-							<attribute id="GroupID" type="FixedString" value="8610b136-e25c-cd07-1c0d-a559660f1461" />
-							<attribute id="GroupIndex" type="int32" value="2" />
 							<attribute id="speaker" type="int32" value="0" />
 							<children>
 								<node id="children">
@@ -10985,8 +10959,6 @@
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="TagAnswer" />
 							<attribute id="UUID" type="FixedString" value="c903b584-564d-a948-c645-cc73f1550486" />
-							<attribute id="GroupID" type="FixedString" value="c94de1ec-551e-ce6b-1aa7-a177e978bbc9" />
-							<attribute id="GroupIndex" type="int32" value="1" />
 							<attribute id="speaker" type="int32" value="0" />
 							<children>
 								<node id="children">
@@ -13896,8 +13868,6 @@
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="TagAnswer" />
 							<attribute id="UUID" type="FixedString" value="fa91bcd5-bf54-874a-2baa-60015d158fe3" />
-							<attribute id="GroupID" type="FixedString" value="8610b136-e25c-cd07-1c0d-a559660f1461" />
-							<attribute id="GroupIndex" type="int32" value="1" />
 							<attribute id="speaker" type="int32" value="0" />
 							<children>
 								<node id="children">
@@ -14408,7 +14378,13 @@
 								<node id="children">
 									<children>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="4375c35a-3a4f-4206-83bb-8ca0308b9add" />
+											<attribute id="UUID" type="FixedString" value="02d6ae09-3013-4efc-8774-606438f4c1fb" />
+										</node>
+										<!-- <node id="child">
+											<attribute id="UUID" type="FixedString" value="682b2fa9-893c-ffeb-e28c-4c14219c692e" />
+										</node> -->
+										<node id="child">
+											<attribute id="UUID" type="FixedString" value="8d12bff5-9541-6f0f-1e6a-f6cb5c9fe3e5" />
 										</node>
 									</children>
 								</node>
