@@ -8,14 +8,14 @@
         <node id="ModuleInfo">
           <attribute id="Author" type="LSString" value="EmeraldTechno" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSString" value="Adds kiss interactions for Wyll in the epilogue." />
+          <attribute id="Description" type="LSString" value="Adds asexual dialog path to Astarion's first romance night." />
           <attribute id="Folder" type="LSString" value="Astarion_Sex_Not_Required" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="Astarion_Sex_Not_Required" />
+          <attribute id="Name" type="FixedString" value="Asexual Path For Astarion" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
