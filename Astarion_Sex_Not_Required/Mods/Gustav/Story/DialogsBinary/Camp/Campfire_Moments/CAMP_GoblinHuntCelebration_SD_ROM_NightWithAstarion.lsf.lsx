@@ -2688,7 +2688,7 @@
 						</node>
 						<node id="node" key="UUID">
 							<attribute id="constructor" type="FixedString" value="TagCinematic" />
-							<attribute id="UUID" type="FixedString" value="2cd144c9-f326-954a-da71-27d0b9299466" />
+							<attribute id="UUID" type="FixedString" value="2cd144c9-f326-954a-da71-27d0b9299466" /> <!-- This is the cinematic that is ACTUALLY playing. -->
 							<attribute id="ShowOnce" type="bool" value="True" />
 							<attribute id="speaker" type="int32" value="-1" />
 							<children>
@@ -7951,7 +7951,7 @@
 								<node id="children">
 									<children>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="2cd144c9-f326-954a-da71-27d0b9299466" />
+											<attribute id="UUID" type="FixedString" value="e1c3c020-c3af-3c61-8e65-95c049b53cc3" /> <!-- setting the cinematic that plays the morning after -->
 										</node>
 									</children>
 								</node>
@@ -11987,13 +11987,13 @@
 								<node id="children">
 									<children>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="6bf269eb-09e7-643f-b66e-191636e38ae8" />
+											<attribute id="UUID" type="FixedString" value="6bf269eb-09e7-643f-b66e-191636e38ae8" /> <!-- Interesting scars. Where'd you get them? -->
 										</node>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="9abd08a5-03a4-7aa9-ffac-2d6b6938cb54" />
+											<attribute id="UUID" type="FixedString" value="9abd08a5-03a4-7aa9-ffac-2d6b6938cb54" /> <!-- That's Cazador's poem on your back? Written in scars? -->
 										</node>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="5d4e87bf-e52c-aff8-5e6d-90a80f05f586" />
+											<attribute id="UUID" type="FixedString" value="5d4e87bf-e52c-aff8-5e6d-90a80f05f586" /> <!-- I enjoyed that. Did you? -->
 										</node>
 										<node id="child">
 											<attribute id="UUID" type="FixedString" value="baeb8961-2f6d-f92b-d67a-cfd6e1a491bf" />
