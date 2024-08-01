@@ -2701,6 +2701,9 @@
 											<attribute id="UUID" type="FixedString" value="c7d4d854-4260-672b-f735-9d104f360295" />
 										</node>
 										<node id="child">
+											<attribute id="UUID" type="FixedString" value="5d4e87bf-e52c-aff8-5e6d-90a80f05f586" /> <!-- I enjoyed that. Did you? -->
+										</node>
+										<node id="child">
 											<attribute id="UUID" type="FixedString" value="7bd6f72c-a8da-296a-616c-f76d28f4cf96" />
 										</node>
 										<node id="child">
@@ -3399,7 +3402,7 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedString" handle="h42173f80g8402g48afgbc8bg901e8ab6e35b" version="2" />
+															<attribute id="TagText" type="TranslatedString" handle="h42173f80g8402g48afgbc8bg901e8ab6e35b" version="2" /> <!-- But we should move. We've got a big day ahead of us, and I can't spend it all chatting to you. -->
 															<attribute id="LineId" type="guid" value="e02d41bb-0801-40b2-8521-af7ebc8efdd8" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
@@ -4641,7 +4644,7 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedString" handle="h954d0d4dg6e7cg4b29gba7bgcd5d61521e87" version="2" />
+															<attribute id="TagText" type="TranslatedString" handle="h954d0d4dg6e7cg4b29gba7bgcd5d61521e87" version="2" /> <!-- But we should probably get back before we're missed. People might talk. -->
 															<attribute id="LineId" type="guid" value="fada94c6-7065-4866-a94d-5f097fc17c90" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
@@ -5438,7 +5441,7 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedString" handle="ha48a4a0bg58efg4d95g9107g261ce6d6e427" version="1" />
+															<attribute id="TagText" type="TranslatedString" handle="ha48a4a0bg58efg4d95g9107g261ce6d6e427" version="1" /> <!-- Believe it or not, I did. You're certainly... different. -->
 															<attribute id="LineId" type="guid" value="155d62b6-5dcb-428f-8202-082863e31008" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
@@ -5887,7 +5890,7 @@
 								<node id="children">
 									<children>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="3db98148-6314-8475-3323-8864c308d771" />
+											<attribute id="UUID" type="FixedString" value="59b714d8-b3b3-ebca-d054-e348b57cd69f" />
 										</node>
 									</children>
 								</node>
@@ -5909,7 +5912,7 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedString" handle="h405a247fga284g4f81g954bg7b80c889a42e" version="2" />
+															<attribute id="TagText" type="TranslatedString" handle="h405a247fga284g4f81g954bg7b80c889a42e" version="2" /> <!-- Believe it or not, I did. You're certainly... different. -->
 															<attribute id="LineId" type="guid" value="ac4493e1-5c72-4e8e-bba2-f96a7e2fb298" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
@@ -6585,7 +6588,7 @@
 								<node id="children">
 									<children>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="6f19192c-1353-941c-00fd-9564db0affdc" />
+											<attribute id="UUID" type="FixedString" value="69cadb4e-d0c3-a53a-1540-a853e3b5f8f2" />
 										</node>
 									</children>
 								</node>
@@ -7951,7 +7954,7 @@
 								<node id="children">
 									<children>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="e1c3c020-c3af-3c61-8e65-95c049b53cc3" /> <!-- setting the cinematic that plays the morning after -->
+											<attribute id="UUID" type="FixedString" value="2cd144c9-f326-954a-da71-27d0b9299466" /> <!-- setting the cinematic that plays the morning after -->
 										</node>
 									</children>
 								</node>
