@@ -7121,8 +7121,8 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedString" handle="hf38c99d2gde1dg417egb5b8g69cc092d65bd" version="1" /> <!-- But maybe that's not a bad thing. -->
-															<attribute id="LineId" type="guid" value="ad8bead7-441e-4fa5-8cb7-07ee672556a4" />
+															<attribute id="TagText" type="TranslatedString" handle="hc5bdf999gb240g4079gaf57gcb7340f5a388" version="1" /> <!-- But maybe that's not a bad thing. -->
+															<attribute id="LineId" type="guid" value="ab679fc2-8afa-490f-ba2d-559c7a9f8cc5" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
 													</children>
@@ -10858,8 +10858,8 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedString" handle="hb61c9afcg38a8g4c74ga9acg5da012499232" version="1" /> <!-- My dear, you're much more boring than I gave you credit for. -->
-															<attribute id="LineId" type="guid" value="129b033e-fef9-4c8e-a48f-eed2b49e3f20" />
+															<attribute id="TagText" type="TranslatedString" handle="hf38c99d2gde1dg417egb5b8g69cc092d65bd" version="1" /> <!-- My dear, you're much more boring than I gave you credit for. -->
+															<attribute id="LineId" type="guid" value="ad8bead7-441e-4fa5-8cb7-07ee672556a4" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
 													</children>
