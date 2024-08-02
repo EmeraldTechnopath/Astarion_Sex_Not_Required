@@ -14605,7 +14605,7 @@
 								<node id="children">
 									<children>
 										<node id="child">
-											<attribute id="UUID" type="FixedString" value="c903b584-564d-a948-c645-cc73f1550486" />
+											<attribute id="UUID" type="FixedString" value="85631875-45db-785b-44cf-fb6aba7665e4" />
 										</node>
 									</children>
 								</node>
@@ -14627,8 +14627,8 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedString" handle="h6bf2cd17g9b5eg4dbeg9c22g7c85e82d03af" version="2" /> <!-- Karlach, champion of the Hells, wants to talk and then fall asleep? -->
-															<attribute id="LineId" type="guid" value="ecdd9ab5-afc6-4be3-936a-49e478b49f71" />
+															<attribute id="TagText" type="TranslatedString" handle="hb61c9afcg38a8g4c74ga9acg5da012499232" version="2" /> <!-- My dear, you're much more boring than I gave you credit for. -->
+															<attribute id="LineId" type="guid" value="129b033e-fef9-4c8e-a48f-eed2b49e3f20" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
 													</children>
