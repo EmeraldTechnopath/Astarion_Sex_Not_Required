@@ -12,3 +12,24 @@ What is jumptarget?
 What are rootnodes?
 
 Can take dialog from a different file, but very jank and doesn't play cinematic.
+
+SE commands:
+
+tavUUID = Osi.GetHostCharacter()
+Osi.CharacterGiveEquipmentSet(tavUUID, "EQ_Astarion")
+
+Muffin, Legendary Runeshaper — Today at 12:26 AM
+I feel this is not a great technique because it's harder to read. That's a huge amount of text and it would be easy to miss stuff. Here's a better technique: 
+Run this before cut scene:
+Ext.IO.SaveFile('host-before-cut-scene.json', Ext.DumpExport(Ext.Entity.Get(GetHostCharacter()):GetAllComponents()))
+Run this after:
+Ext.IO.SaveFile('host-after-cut-scene.json', Ext.DumpExport(Ext.Entity.Get(GetHostCharacter()):GetAllComponents()))
+Then use https://www.diffchecker.com/ or a VSCode extension to compare them
+Diffchecker - Compare text online to find the difference between tw...
+Diffchecker will compare text to find the difference between two text files. Just paste your files and click Find Difference!
+
+Muffin, Legendary Runeshaper — Today at 12:28 AM
+The file will be in %localappdata%\Larian Studios\Baldur's Gate 3\Script Extender - good luck!
+
+entity = Ext.Entity.Get(GetHostCharacter())
+print(entity)

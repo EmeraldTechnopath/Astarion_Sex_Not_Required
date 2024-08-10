@@ -1,5 +1,0 @@
-{
-    "RequiredVersion": 15,
-    "ModTable": "Astarion_Sex_Not_Required",
-    "FeatureFlags": ["Lua"]
-}
